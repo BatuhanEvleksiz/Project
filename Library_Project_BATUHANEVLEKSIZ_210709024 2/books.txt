@@ -1,0 +1,10 @@
+237868,cesur yeni dunya,aldous huxley,F
+741872,hayvan ciftligi,george orwell,T
+989234,kurk mantolu madonna,sabahattin ali,T
+134839,satranc,stefan zweig,F
+293489,1984,george orwell,T
+381938,yaban,yakup kadri karaosmanoglu,T
+353249,savas ve baris,leo tolstoy,F
+256842,ask ve gurur,jane austen,T
+314789,don kisot,miguel de cervantes,T
+319983,nutuk,mustafa kemal ataturk,F
